@@ -18,21 +18,3 @@ Dark Mode Toggle — Easy switch to dark mode styling.
 WebSocket Simulation — Demo code shows how to connect and handle chat logic.
 
 Modern UI — Uses Tailwind CSS for clean, responsive design and custom animations.
-
-⚠️ Note
-This is a demo app — it does not include a real backend server or secure authentication.
-WebSocket connections, user storage, and messages are simulated in-browser for demonstration only.
-
-📁 Tech Stack
-HTML5
-
-Tailwind CSS
-
-JavaScript (ES6)
-
-🚀 How to Use
-Clone the repo and open new.html in your browser.
-
-Register a demo user and create or join a chat room.
-
-Try out sending messages, see typing indicators, and simulate chat flows.
